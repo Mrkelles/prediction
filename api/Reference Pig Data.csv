@@ -1,0 +1,25 @@
+Week,Number Of Pigs,Age (Days),Average Start Weight (kg),Average End Weight (kg),Average Weekly Weight Gain (kg),Average Cumulative Weight Gain (kg),ADG (kg/day),ADFI (kg/day),Average Weekly Feed Intake (kg),Average Cumulative Feed Intake (kg),Average FCR,Average Cumulative FCR,Feed Cost per kg ($),Average  Weekly Feed Cost ($),Average Cumulative Feed Cost ($),Feed Class,Protein Content (%),Energy Content (kcal/kg),Health Interventions,Environmental Temp (°C),Environmental Humidity (%),Notes
+1,5000,7,1.5,2.9,1.4,1.4,0.2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sow's Milk,N/A,N/A,None,30,65,Pre-weaning phase
+2,5000,14,2.9,4.3,1.4,2.8,0.2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sow's Milk,N/A,N/A,Iron Injection,30,65,
+3,5000,21,4.3,5.7,1.4,4.2,0.2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sow's Milk,N/A,N/A,None,28,65,
+4,5000,28,5.7,7.1,1.4,5.6,0.2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sow's Milk,N/A,N/A,Weaning,28,65,Weaning period
+5,5000,35,7.1,9.9,2.8,8.4,0.4,0.6,4.2,4.2,1.5,1.5,0.5,2.1,2.1,Starter Feed,22,3300,Vaccination (Mycoplasma),26,65,Transition to solid feed
+6,5000,42,9.9,12.7,2.8,11.2,0.4,0.6,4.2,8.4,1.5,1.5,0.5,2.1,4.2,Starter Feed,22,3300,Deworming,26,65,
+7,5000,49,12.7,15.5,2.8,14,0.4,0.6,4.2,12.6,1.5,1.5,0.5,2.1,6.3,Starter Feed,22,3300,None,24,65,
+8,5000,56,15.5,18.3,2.8,16.8,0.4,0.6,4.2,16.8,1.5,1.5,0.5,2.1,8.4,Starter Feed,22,3300,Vaccination (PCV2),24,65,
+9,5000,63,18.3,21.1,2.8,19.6,0.4,0.6,4.2,21,1.5,1.5,0.5,2.1,10.5,Starter Feed,22,3300,None,22,65,
+10,5000,70,21.1,23.9,2.8,22.4,0.4,0.6,4.2,25.2,1.5,1.5,0.5,2.1,12.6,Starter Feed,22,3300,Deworming,22,65,
+11,5000,77,23.9,28.1,4.2,26.6,0.6,1.5,10.5,35.7,2.5,1.8,0.45,4.73,17.33,Grower Feed,18,3200,None,20,65,
+12,5000,84,28.1,32.3,4.2,30.8,0.6,1.5,10.5,46.2,2.5,2,0.45,4.73,22.06,Grower Feed,18,3200,Vaccination (Erysipelas),20,65,
+13,5000,91,32.3,36.5,4.2,35,0.6,1.5,10.5,56.7,2.5,2.1,0.45,4.73,26.79,Grower Feed,18,3200,None,20,65,
+14,5000,98,36.5,40.7,4.2,39.2,0.6,1.5,10.5,67.2,2.5,2.1,0.45,4.73,31.52,Grower Feed,18,3200,Deworming,20,65,
+15,5000,105,40.7,44.9,4.2,43.4,0.6,1.5,10.5,77.7,2.5,2.2,0.45,4.73,36.25,Grower Feed,18,3200,None,20,65,
+16,5000,112,44.9,49.1,4.2,47.6,0.6,1.5,10.5,88.2,2.5,2.2,0.45,4.73,40.98,Grower Feed,18,3200,None,20,65,
+17,5000,119,49.1,55.4,6.3,53.9,0.9,2.5,17.5,105.7,2.8,2.3,0.4,7,47.98,Finisher Feed,16,3100,Vaccination (Parvovirus),18,65,
+18,5000,126,55.4,61.7,6.3,60.2,0.9,2.5,17.5,123.2,2.8,2.4,0.4,7,54.98,Finisher Feed,16,3100,Deworming,18,65,
+19,5000,133,61.7,68,6.3,66.5,0.9,2.5,17.5,140.7,2.8,2.5,0.4,7,61.98,Finisher Feed,16,3100,None,18,65,
+20,5000,140,68,74.3,6.3,72.8,0.9,2.5,17.5,158.2,2.8,2.5,0.4,7,68.98,Finisher Feed,16,3100,None,18,65,
+21,5000,147,74.3,80.6,6.3,79.1,0.9,2.5,17.5,175.7,2.8,2.5,0.4,7,75.98,Finisher Feed,16,3100,Vaccination (Leptospirosis),18,65,
+22,5000,154,80.6,86.9,6.3,85.4,0.9,2.5,17.5,193.2,2.8,2.5,0.4,7,82.98,Finisher Feed,16,3100,Deworming,18,65,
+23,5000,161,86.9,93.2,6.3,91.7,0.9,2.5,17.5,210.7,2.8,2.5,0.4,7,89.98,Finisher Feed,16,3100,None,18,65,
+24,5000,168,93.2,99.5,6.3,98,0.9,2.5,17.5,228.2,2.8,2.5,0.4,7,96.98,Finisher Feed,16,3100,Ready for Market,18,65,Ready for market
